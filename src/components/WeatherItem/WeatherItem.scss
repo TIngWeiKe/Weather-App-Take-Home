@@ -1,0 +1,33 @@
+.item-box {
+	width: 380px;
+	position: relative;
+	background-color: white;
+	display: flex;
+	border: 1px solid #c8c8c8;
+	border-radius: 0.3em;
+	margin: 15px auto;
+	padding: .625em;
+  text-align: center;
+	> img {
+		min-width: 75px;
+    min-height: 75px;
+	}
+	> .temp {
+		box-sizing: border-box;
+		width: 80px;
+		margin-left: 10px;
+		color: #faa600;
+		font-size: 28px;
+	}
+	> .city {
+		margin-left: 20px;
+		font-size: 28px;
+		font-weight: 400;
+	}
+	> .desc {
+		position: absolute;
+		font-size: 18px;
+		top: 55px;
+		left: 97px;
+	}
+}
