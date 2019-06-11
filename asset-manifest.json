@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Weather-App-Take-Home/static/css/main.14ce3317.chunk.css",
+    "main.js": "/Weather-App-Take-Home/static/js/main.13109166.chunk.js",
+    "main.js.map": "/Weather-App-Take-Home/static/js/main.13109166.chunk.js.map",
+    "runtime~main.js": "/Weather-App-Take-Home/static/js/runtime~main.db4d62b0.js",
+    "runtime~main.js.map": "/Weather-App-Take-Home/static/js/runtime~main.db4d62b0.js.map",
+    "static/js/2.f81ddffe.chunk.js": "/Weather-App-Take-Home/static/js/2.f81ddffe.chunk.js",
+    "static/js/2.f81ddffe.chunk.js.map": "/Weather-App-Take-Home/static/js/2.f81ddffe.chunk.js.map",
+    "index.html": "/Weather-App-Take-Home/index.html",
+    "precache-manifest.bec9831692dc86a5e4e67ccfdd4c6aed.js": "/Weather-App-Take-Home/precache-manifest.bec9831692dc86a5e4e67ccfdd4c6aed.js",
+    "service-worker.js": "/Weather-App-Take-Home/service-worker.js",
+    "static/css/main.14ce3317.chunk.css.map": "/Weather-App-Take-Home/static/css/main.14ce3317.chunk.css.map",
+    "static/media/global.scss": "/Weather-App-Take-Home/static/media/backGround.71b1cd9b.png"
+  }
+}
